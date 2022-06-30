@@ -4,8 +4,8 @@ Website Pemesanan Makanan dan Minuman
 ## Cara Menjalankan
 1. Export Database dan masukan ke database bifood_db
 2. Jalankan Server
-3. Akses URL "http://localhost/bifood/login.php" atau sejenisnya
-4. Masukan Username dan Password (atau bisa dibuat akun baru) Admin -> username: bily, password: bily123 | User -> username: user, password: user
+3. Akses URL "http://localhost/bifood/login.php"
+4. Masukan Username dan Password (atau bisa dibuat akun baru) Admin -> username: bilyhakim, password: bily123 | User -> username: user, password: user
 5. Jika admin, maka akan ke redirect ke halaman menu admin yang bisa mengedit data produk
 6. Jika User, hanya bisa melakukan pembelian
 
