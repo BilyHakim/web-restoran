@@ -37,7 +37,7 @@
               <a class="nav-link mr-4" href="home.php">HOME</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link mr-4" href="menu_pembeli.php">DAFTAR MENU</a>
+              <a class="nav-link mr-4" href="daftar_menu.php">DAFTAR MENU</a>
             </li>
             <li class="nav-item">
               <a class="nav-link mr-4" href="pesanan_pembeli.php">PESANAN ANDA</a>
