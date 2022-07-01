@@ -140,7 +140,7 @@
         <div class="row footer-body">
           <div class="col-md-6">
           <div class="copyright">
-          BiFood | <strong>Copyright</strong> <i class="far fa-copyright"> 2022</i> | Bily Hakim Erlangga</p>
+          BiFood | <strong>Copyright</strong> <i class="far fa-copyright"> 2022</i> | Bily Hakim Erlangga & Sinta Murtiningrum</p>
           </div>
           </div>
 
